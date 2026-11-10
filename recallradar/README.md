@@ -37,8 +37,7 @@ A keyword matches a recall when all of its words appear in the recall's title, p
 Needs Python 3.10+ and Node 22.12+.
 
 ```bash
-git clone https://github.com/Khalick/recallradar.git
-cd recallradar
+
 
 # 1. Fetch the recall data (takes about 10 seconds)
 python -m venv .venv
